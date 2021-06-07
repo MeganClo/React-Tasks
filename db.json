@@ -17,6 +17,12 @@
       "day": "June 13, all day",
       "reminder": true,
       "id": 4
+    },
+    {
+      "text": "Work on Linkedin",
+      "day": "Tuesday by class time",
+      "reminder": true,
+      "id": 5
     }
   ]
 }
