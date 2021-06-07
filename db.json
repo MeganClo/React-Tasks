@@ -1,0 +1,22 @@
+{
+  "tasks": [
+    {
+      "id": 2,
+      "text": "Last Day of School",
+      "day": "June 11th at 12pm",
+      "reminder": false
+    },
+    {
+      "id": 3,
+      "text": "Kids Leave to MN",
+      "day": "June 16th at 5:30pm",
+      "reminder": false
+    },
+    {
+      "text": "Learn React Basics",
+      "day": "June 13, all day",
+      "reminder": true,
+      "id": 4
+    }
+  ]
+}
